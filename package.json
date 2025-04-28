@@ -1,4 +1,8 @@
 {
   "name": "isValidSignature",
-  "packageManager": "yarn@4.4.1"
+  "packageManager": "yarn@4.4.1",
+  "dependencies": {
+    "@metamask/delegation-toolkit": "^0.10.2",
+    "viem": "^2.28.0"
+  }
 }
